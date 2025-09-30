@@ -21,8 +21,7 @@ Yu-Gi-Oh! Duel Lite es una aplicación de escritorio desarrollada en **Java Swin
 
 1. **📥 Clonar el repositorio**:
    ```bash
-   git clone [url-del-repositorio]
-   cd yu-gi-oh-duel-lite
+   git clone https://github.com/Elconter420/Yu-Gi-Oh-Duel-Lite.git
    ```
 
 ## 🏗️ Diseño y Arquitectura
