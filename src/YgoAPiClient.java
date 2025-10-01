@@ -32,7 +32,7 @@ public class YgoAPiClient {
                     json.optString("def", "0"),
                     json.getJSONArray("card_images").getJSONObject(0).getString("image_url")
             );
-        
+
         } catch (Exception e) {
             e.printStackTrace();
             return null;
